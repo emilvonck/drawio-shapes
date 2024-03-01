@@ -1,2 +1,0 @@
-# Drawio shape lib
-
